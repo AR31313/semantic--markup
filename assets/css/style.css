@@ -92,7 +92,7 @@ aside {
 }
 
 
-.benefit h3 {
+.benefit h5 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -132,6 +132,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h8 {
     font-size: 20px;
 }
